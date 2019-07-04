@@ -7,3 +7,4 @@
 ## Release version 2
 
 1. This is dev for release version 2.
+2. Added Feature #1
