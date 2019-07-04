@@ -12,3 +12,4 @@
 ## Release version 3
 
 1. This is dev for release version 3.
+2. Added feature #2-1
