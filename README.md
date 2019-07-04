@@ -13,4 +13,4 @@
 
 1. This is dev for release version 3.
 2. Added feature #2-1
-3. Added better feature #3
+3. Added better feature #3, disabled overriding elements on feature #2.
