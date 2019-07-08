@@ -14,3 +14,7 @@
 1. This is dev for release version 3.
 2. Added feature #2-1
 3. Added better feature #3, disabled overriding elements on feature #2.
+
+## Release version 4
+
+1. Added modal UI for confirming data has been pushed.
